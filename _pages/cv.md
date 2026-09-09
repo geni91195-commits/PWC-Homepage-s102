@@ -11,54 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, Delta Science University, 2024-Present
+* B.Eng., Harborview University, 2020-2024 (graduated June 2024)
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* February 2025 - Present: Research Intern
+  * Aurora Models
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2024 - September 2024: Research Intern
+  * Quantum Text Labs
+  * Advisor: Lina Petrova
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* June 2023 - December 2023: Research Intern
+  * Meridian AI Institute
+  * Advisor: Samir Ali
+
+Doctoral research
+======
+* First-year PhD candidate at Delta Language Analytics, a research group led by Professor Omar Khalid and part of Delta Science University
+* PhD supervisor: Professor Omar Khalid
+* Research focus: natural language processing and machine learning
+* Research interests: Reinforcement Learning for Reasoning; Hallucination in Vision-Language Models; Interpretability of Truthfulness
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python programming
+* JAX
+* Docker
+
+Honors and awards
+======
+* Harborview Research Scholarship, awarded by Harborview University
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Stabilizing Proof Search with Learned Critics (2025). Forum on Learning Systems 2024. First author: Noor Haddad. Code available in a GitHub repository.
+* Multimodal Chart Reading Under Occlusion (2025). Meeting on Multimodal Intelligence 2024. First author: Noor Haddad. Code available in a GitHub repository.
+* Geometry of Truthful Representations (2024). Forum on Learning Systems 2024. First author: Noor Haddad. Code available in a GitHub repository.
+* Activation Alerts for Hallucination Control (2024). Meeting on Multimodal Intelligence 2024. Noor Haddad is a co-author.
+* Benchmarking Multilingual Foundation Models (2023). Assembly of Foundation Models 2023. Noor Haddad is a co-author.
+* Arithmetic Module Composition for Adapters (2023). Assembly of Foundation Models 2023. Noor Haddad is a co-author.
+
+Contact
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Email: noor.haddad@delta.edu
+* GitHub: noorhaddad0205 (https://github.com/noorhaddad0205)
+* Google Scholar: https://scholar.example.org/citations?user=pwc102
+* X (Twitter): @noor_haddad_pwc102
